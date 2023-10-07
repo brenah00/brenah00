@@ -6,6 +6,6 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/brenda-aguilar-hdez/) 
 
 # Mis habilidades:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,jest,figma,firebase,github,regex,mysql,nodejs,md,matlab,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,cpp,py,jest,figma,firebase,github,regex,mysql,nodejs,md,matlab,arduino,raspberrypi)](https://skillicons.dev)
 
 ¡Gracias por visitar mi perfil!
